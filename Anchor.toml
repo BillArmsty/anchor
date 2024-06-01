@@ -5,6 +5,8 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
+callee = "7C4CFsdm2PcwykgrZsM12mYRf46tsSyzEeQBMQEFRLQv"
+caller = "82BDVN9BRaMZ9XkkiYkWpgzebsgNovWYbu8WCAqvemQC"
 cpi_returns = "H769wqK45ff6TpatUvJ5Q4ehAMioQ6oNM2SeAjqwahJ6"
 
 [registry]
